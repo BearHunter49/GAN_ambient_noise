@@ -27,7 +27,7 @@ Create random ambient noise by GAN
 <br>
 
 ## Model
-Using WaveGAN
+Used WaveGAN
 
 ### Generator
 <img src='/img/generator.png'>
