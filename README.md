@@ -16,6 +16,9 @@ Create random ambient noise by GAN
 ### IDE
 - Colab
 
+### Framework
+- Keras
+
 ### Type of Ambient Noise
 - Rain
 - Forest
