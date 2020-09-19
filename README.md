@@ -38,4 +38,5 @@ Used WaveGAN
 ### Discriminator
 <img src='/img/discriminator.png'>
 
-### GAN
+### Result
+- [Google Drive](https://drive.google.com/drive/folders/1kgXrwgvrUN76e30ITCdyyqiw5tm_XAkb?usp=sharing)
