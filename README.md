@@ -31,6 +31,7 @@ Create random ambient noise by GAN
 
 ## Model
 Used WaveGAN
+<br> Reference: https://github.com/chrisdonahue/wavegan
 
 ### Generator
 <img src='/img/generator.png'>
