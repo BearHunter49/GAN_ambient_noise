@@ -8,6 +8,11 @@ Create random ambient noise by GAN
 [2. Model](#model)
 <br>
 
+## Notion
+
+[Link](https://www.notion.so/bearhunter49/waveGAN-417aa6a394234b7bb3701071458ef97d)
+<br>
+
 ## Environment
 
 ### Language
