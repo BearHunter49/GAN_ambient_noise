@@ -44,5 +44,12 @@ Used WaveGAN
 ### Discriminator
 <img src='/img/discriminator.png'>
 
+### Compare Waveform
+<img src='/img/4가지비교.png'>
+<br>
+
+<img src='/img/total_image.png'>
+Mixed with total(7 kinds) noise
+
 ### Result
 - [Google Drive](https://drive.google.com/drive/folders/1kgXrwgvrUN76e30ITCdyyqiw5tm_XAkb?usp=sharing)
