@@ -1,5 +1,5 @@
 # GAN_ambient_noise
-Create random ambient noise by GAN
+Creating random ambient noise by waveGAN
 <br>
 
 ## Index
@@ -35,7 +35,7 @@ Create random ambient noise by GAN
 <br>
 
 ## Model
-Used WaveGAN
+Using WaveGAN
 <br> Reference: https://github.com/chrisdonahue/wavegan
 
 ### Generator
@@ -44,7 +44,7 @@ Used WaveGAN
 ### Discriminator
 <img src='/img/discriminator.png'>
 
-### Compare Waveform
+### Comparing Waveform
 <img src='/img/4가지비교.png'>
 <br>
 
